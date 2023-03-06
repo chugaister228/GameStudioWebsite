@@ -1,0 +1,12 @@
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\bin\Debug\net7.0\News.DAL.deps.json
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\bin\Debug\net7.0\News.DAL.dll
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\bin\Debug\net7.0\News.DAL.pdb
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\News.DAL.csproj.AssemblyReference.cache
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\News.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\News.DAL.AssemblyInfoInputs.cache
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\News.DAL.AssemblyInfo.cs
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\News.DAL.csproj.CoreCompileInputs.cache
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\News.DAL.dll
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\refint\News.DAL.dll
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\News.DAL.pdb
+D:\Table\bursa\ChugaisterGameStudio\News.DAL\obj\Debug\net7.0\ref\News.DAL.dll
